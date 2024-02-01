@@ -4,7 +4,6 @@ import discord
 from discord.ext import commands, tasks
 from discord import Interaction
 from SteamR import steamfunction
-#from discord_slash import cog_ext, SlashContext
 from ComicF import comic_getter
 import asyncio
 import string
