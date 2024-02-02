@@ -13,7 +13,7 @@ https://www.facebook.com/anagrambot (anagram)
 
 
 
-I do not own any of these bots, i just liked them while it was possible, and trying to bring them back, since botmins are dead or something and i used to have a lot of fun
+I do not own any of these bots, i just liked them while it was possible, I'm trying to bring them back since botmins are dead or something and i used to have a lot of fun
 with them. Also thanks to the Bot Appreciation Society for sticking around all these years.
 
 
