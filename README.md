@@ -8,7 +8,7 @@ https://www.facebook.com/cyanidebot69 (comic)
 
 
 
-https://www.facebook.com/anagrambot (anagram)
+Couldn't find AnagramBot page
 
 
 
