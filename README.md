@@ -21,3 +21,7 @@ This bot also has some small functions that i conceived, some are yet to be fini
 and I can't keep giving away all the ideas, mine or not.
 
 You're free to use the code found here, don't forget to credit the original authors.
+
+
+You can also invite the bot to your server if you will, it is obviously not finished
+https://discord.com/api/oauth2/authorize?client_id=1089918618667593770&permissions=8&scope=bot+applications.commands
