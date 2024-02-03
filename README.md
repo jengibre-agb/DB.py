@@ -27,3 +27,5 @@ You can also invite it to your server if you will, it is obviously not finished
 
 
 https://discord.com/api/oauth2/authorize?client_id=1089918618667593770&permissions=8&scope=bot+applications.commands
+
+-Ricardo =)
