@@ -9,9 +9,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support import expected_conditions as EC
 
-#dictionary contains the ids of the games so there's more control over them
-#avoid nsfw games as they require logging in,
-    #obviously there's a workaround for this but i'm too damn lazy, will do it later
+#avoid nsfw games in the dictionary as they require logging in
+#fixed on up-to-date version
 
 
 def ss_steam_review():
