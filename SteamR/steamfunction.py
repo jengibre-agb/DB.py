@@ -28,7 +28,6 @@ def ss_steam_review():
     driver.set_window_size(1920, 1080)
     #Don't delete the window size, the ss are taken awkwardly without it
 
-    #Get a game ID from the dictionary
     driver.get(f'https://steamcommunity.com/app/{steamgame}/reviews/')
     time.sleep(1)
 
